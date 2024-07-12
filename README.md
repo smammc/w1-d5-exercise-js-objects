@@ -1,4 +1,4 @@
-# w1-d4-exercise-js-objects
+# w1-d5-exercise-js-objects
 
 We have received a request from the Public Library to send them an example of what would be a good way to organize their user registry:
 
